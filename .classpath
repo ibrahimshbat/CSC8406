@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Dropbox/Dominastration 2015-2016/Semester 1/CSC8406/Marking/courseworkCSC8406/Football League/library/guava-19.0-rc2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/junit-4.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

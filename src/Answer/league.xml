@@ -1,0 +1,22 @@
+
+<arsenal>
+	<player name="Nacho Monreal" height="1.87" dateOfBirth="21/5/1993" position="Position.DEFENDER"></player>
+	<goalKeeper name="David Ospina" height="1.80" dateOfBirth="31/8/1988" position="Position.GOAL_KEEPER"></goalKeeper>
+	<goalKeeper name="Petr Cech" height="1.78" dateOfBirth="20/5/1982" position="Position.GOAL_KEEPER"></goalKeeper>
+	<player name="Mathieu Debuchy" height="1.84" dateOfBirth="28/7/1985" position="Position.DEFENDER"></player>
+	<player name="Kieran Gibbs" height="1.86" dateOfBirth="26/9/1989" position="Position.DEFENDER"></player>
+	<player name="Per Mertesacker" height="1.90" dateOfBirth="29/9/1984" position="Position.DEFENDER"></player>
+	<player name="Gabriel" height="1.87" dateOfBirth="26/11/1990" position="Position.DEFENDER"></player>
+	<player name="Laurent Koscielny" height="1.83" dateOfBirth="10/9/1985" position="Position.DEFENDER"></player>
+	<player name="Calum Chambers" height="1.89" dateOfBirth="20/1/1995" position="Position.DEFENDER"></player>
+	<player name="Mathieu Debuchy" height="1.84" dateOfBirth="28/7/1985" position="Position.DEFENDER"></player>
+	<player name="Hector Bellerin" height="1.82" dateOfBirth="19/3/1995" position="Position.DEFENDER"></player>
+	<player name="Tomas Rosicky" height="1.87" dateOfBirth="04/10/1980" position="Position.MIDFIELDER"></player>
+	<player name="Mikel Arteta" height="1.91" dateOfBirth="26/3/1982" position="Position.MIDFIELDER"></player>
+	<player name="Jack Wilshere" height="1.76" dateOfBirth="01/1/1992" position="Position.MIDFIELDER"></player>
+	<player name="Mesut Ozil" height="1.88" dateOfBirth="15/10/1988" position="Position.MIDFIELDER"></player>
+	<player name="Alex Oxlade-Chamberlein" height="1.79" dateOfBirth="15/8/1993" position="Position.MIDFIELDER"></player>
+	<player name="Aaron Ramsey" height="1.87" dateOfBirth="26/12/1990" position="Position.MIDFIELDER"></player>
+	<player name="Santi Cazorla" height="1.89" dateOfBirth="13/12/1984" position="Position.MIDFIELDER"></player>
+	
+</arsenal>
