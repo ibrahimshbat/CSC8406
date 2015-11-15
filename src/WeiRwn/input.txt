@@ -1,0 +1,9 @@
+clubs:
+newcastle
+japan
+china
+italy
+france
+korean
+brazil
+
