@@ -1,0 +1,1 @@
+Scotland,2015-11-22,Southampton,Liverpool,Xin1:0;Xin10:0;Xin11:0;Xin12:0;Xin13:0;Xin14:0;Xin15:0;Xin2:0;Xin3:0;Xin4:0;Xin5:0;Xin6:1;Ashe1:0;Ashe10:0;Ashe11:1;Ashe12:0;Ashe13:0;Ashe14:0;Ashe15:0;Ashe2:0;Ashe3:0;Ashe4:0;Ashe5:1;Ashe6:0
